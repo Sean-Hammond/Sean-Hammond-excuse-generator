@@ -2,4 +2,15 @@
 
 body{
     background: white;
+    margin-top: 20px;
+    margin-left: 20px;
 }
+
+p#excuse {
+    color: red;
+}
+
+small {
+    color: darkgray;
+}
+
