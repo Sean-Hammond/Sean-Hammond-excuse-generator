@@ -5,6 +5,10 @@ import "./style.css";
 import "./assets/img/rigo-baby.jpg";
 import "./assets/img/4geeks.ico";
 
+function randomPhrase() {
+  
+}
+
 let who = ['The dog', 'My grandma', 'The mailman', 'My bird', 'Dave'];
 let action = ['ate', 'lost', 'crushed', 'broke', 'stole'];
 let what = ['my homework', 'my phone', 'the car', 'my glasses'];
