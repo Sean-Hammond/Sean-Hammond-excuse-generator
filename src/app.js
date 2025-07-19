@@ -6,7 +6,7 @@ import "./assets/img/rigo-baby.jpg";
 import "./assets/img/4geeks.ico";
 
 function randomPhrase(arrayName) {
-  arrayName[Math.floor(Math.random() * arrayName.length)]
+  return arrayName[Math.floor(Math.random() * arrayName.length)]
 }
 
 let who = ['The dog', 'My grandma', 'The mailman', 'My bird', 'Dave'];
